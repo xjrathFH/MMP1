@@ -1,0 +1,24 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "username": "postgres",
+      "database": "postgres",
+      "password": "Postgresql420"
+    },
+    {
+      "previewLimit": 50,
+      "server": "users.multimediatechnology.at",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "mmp1",
+      "database": "fhs49049_mmp1",
+      "username": "fhs49049",
+      "password": "ifoJvlOqg9vU"
+    }
+  ]
+}
